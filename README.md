@@ -6,4 +6,4 @@ This project is to convert [this](https://plato.stanford.edu/entries/biology-phi
 
 Markdown was chosen as a format because all of these factors mean that it is easy to both create, use, and parse these files, which could in theory allow for one to very easily do meta-analyses of papers, and give more convenient access to citations and references.
 
-The other markdown files in this directory serve as examples.
+The (still a WIP) markdown file of the review paper is the only other document in this repository.
